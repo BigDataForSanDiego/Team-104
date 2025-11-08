@@ -4,9 +4,12 @@
 
 #### Team Name: Coffee Overflow    
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: VedVar43789
 
-#### Team Members: Vedant Vardhaan (VedVar43789), Chinmay Bharambe (ChinmayB1), Ishaan Gosain (Igosain08)
+#### Team Members: 
+- Vedant Vardhaan (VedVar43789)
+- Chinmay Bharambe (ChinmayB1)
+- Ishaan Gosain (Igosain08)
 
 #### Your teamâ€™s hackathon idea in One sentence:
 ##### `YOUR ONE SENTENCE HERE`
@@ -24,10 +27,10 @@
 - [ ] Health and Mental Wellness Support
 > - Tools to provide remote mental health support, connect to mobile healthcare providers, or manage chronic conditions common in homeless populations using mobile devices.
 > - Question: How can we create tools or mobile applications that deliver remote mental health care, help manage chronic health conditions, or connect unhoused individuals with trusted health professionals?
-- [ ] Housing and Employment Pathways
+- [X] Housing and Employment Pathways
 > - Web platforms that connect homeless individuals to affordable housing opportunities, job training programs, or employment resources.
 > - Question: What digital web platforms or systems can help individuals experiencing homelessness navigate the path toward stable housing and employment, including skills training, job placement, and housing referrals? 
-- [ ] Safety and Community Engagement
+- [X] Safety and Community Engagement
 > - Solutions to increase personal safety, prevent violence, and foster community support and empathy networks for homeless people.
 > - Question: How might we design technological solutions that improve safety for unhoused individuals, reduce violence, and build empathy and community support through storytelling, social engagement, or civic partnerships?
 - [ ] Data-Driven Policy and User-Centered Resource Planning
