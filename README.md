@@ -12,7 +12,7 @@
 - Ishaan Gosain (Igosain08)
 
 #### Your team's hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `A donation platform that creates lasting donor engagement by showing contributors the specific individuals their money helped, tracking both immediate outcomes and ripple effects like when those helped eventually give back themselves.`
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
@@ -27,7 +27,7 @@
 - [ ] Health and Mental Wellness Support
 > - Tools to provide remote mental health support, connect to mobile healthcare providers, or manage chronic conditions common in homeless populations using mobile devices.
 > - Question: How can we create tools or mobile applications that deliver remote mental health care, help manage chronic health conditions, or connect unhoused individuals with trusted health professionals?
-- [X] Housing and Employment Pathways
+- [] Housing and Employment Pathways
 > - Web platforms that connect homeless individuals to affordable housing opportunities, job training programs, or employment resources.
 > - Question: What digital web platforms or systems can help individuals experiencing homelessness navigate the path toward stable housing and employment, including skills training, job placement, and housing referrals? 
 - [X] Safety and Community Engagement
@@ -36,7 +36,7 @@
 - [ ] Data-Driven Policy and User-Centered Resource Planning
 > - Use of geospatial and demographic data to better understand homeless population trends, optimize resource allocation, and support policy advocacy.
 > - Question: How can we use geospatial data, census data, and AI to map trends in homelessness, identify service gaps, and support equitable decision making and public advocacy
-- [ ] Other Possible Topics
+- [X] Other Possible Topics
 > - Improving digital equity and resource accessibility
 > - Helping youth homelessness and at-risk populations
 > - Providing mobile health clinics and telehealth expansion kits
