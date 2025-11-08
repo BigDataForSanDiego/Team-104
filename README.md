@@ -15,7 +15,7 @@
 ##### `A donation platform that creates lasting donor engagement by showing contributors the specific individuals their money helped, tracking both immediate outcomes and ripple effects like when those helped eventually give back themselves.`
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
+![Visual example](./example_wireframe.jpeg)
 
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
