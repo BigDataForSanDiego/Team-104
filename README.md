@@ -11,7 +11,7 @@
 - Chinmay Bharambe (ChinmayB1)
 - Ishaan Gosain (Igosain08)
 
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 ##### `YOUR ONE SENTENCE HERE`
 
 #### A visual
